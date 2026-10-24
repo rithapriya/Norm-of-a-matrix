@@ -39,22 +39,22 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 
 
-```
-##Output:
 
-### 1-Norm of a Matrix
+# Output:
 
-<img width="1407" height="369" alt="{BD2837E4-B564-478C-857B-11154F6841DC}" src="https://github.com/user-attachments/assets/f4ea5c7c-dddf-4cf6-9969-fa07e737efdc" />
+# 1-Norm of a Matrix
+
+<img width="1407" height="369" alt="Screenshot 2026-10-24 085341" src="https://github.com/user-attachments/assets/f20d9cee-7a2e-4dca-a2a6-975bfb6f4e0e" />
 
 
-### 2-Norm of a Matrix
+# 2-Norm of a Matrix
 
-<img width="1428" height="379" alt="{AEA0F291-1DA4-4652-A106-11C67C487CE0}" src="https://github.com/user-attachments/assets/02c56f8e-1b4d-47ce-bb90-027bf0cf4b5d" />
+<img width="1428" height="379" alt="Screenshot 2026-10-24 085509" src="https://github.com/user-attachments/assets/3abaee39-94f0-4b8d-a964-b9f1a7dc7097" />
 
 
 ### Infinity Norm of a Matrix
+<img width="1406" height="332" alt="Screenshot 2026-10-24 085645" src="https://github.com/user-attachments/assets/2ae804e1-01e1-40f7-91eb-0ad27b6e90f2" />
 
-<img width="1406" height="332" alt="{B95C3671-0687-4DA4-B46A-935235465839}" src="https://github.com/user-attachments/assets/e0763dc7-4691-4e80-8ea6-8e0cf2164a13" />
 
 
 ## Result
